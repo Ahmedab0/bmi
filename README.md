@@ -1,16 +1,10 @@
 # bmi_app
 
-A new Flutter application.
+A new Flutter application to calculate body mass index.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Some screens
 
-A few resources to get you started if this is your first Flutter project:
+![result page](https://github.com/Ahmedab0/bmi/assets/38362624/e7cc85b9-ccdd-4f4b-93a4-36d9f44a932c)
+![home page ](https://github.com/Ahmedab0/bmi/assets/38362624/6273ded7-fb09-4459-9d20-fae555f55110)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
